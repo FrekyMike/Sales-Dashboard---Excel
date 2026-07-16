@@ -60,7 +60,9 @@ Businesses often struggle to monitor sales performance across different product 
 
 ## Dashboard Preview
 
-(Add your dashboard screenshot here.)
+## Dashboard Preview
+
+![Sales & Profit Dashboard](Dashboard.png)
 
 ---
 

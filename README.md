@@ -39,5 +39,5 @@ Businesses need a simple way to monitor sales performance, identify top-performi
 - Increase inventory for best-selling products.
 
 ## Author
-Michael Ndifreke
+Ndifreke Michael
 Aspiring Data Analyst
